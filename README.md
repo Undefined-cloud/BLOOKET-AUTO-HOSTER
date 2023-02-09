@@ -36,4 +36,4 @@ console.error("Failed to redirect to https://goldquest.blooket.com/host/join");
 }, 5000);
 }, 10000);
 
-after you do that, click on automaticly and then click save, then youre blooket game will auto host and to turn of the auto hoster, just turn off the extension!
+after you do that, click on automaticly and then click save, then youre blooket game will auto host. And to turn of the auto hoster, just turn off the extension!
