@@ -1,6 +1,8 @@
 # BLOOKET-AUTO-HOSTER
 STEPS:
 1: DOWNLOAD THIS EXTENSION: https://chrome.google.com/webstore/detail/scripty-javascript-inject/milkbiaeapddfnpenedfgbfdacpbcbam and then go to https://scripty.abhisheksatre.com/ and then add a script
+
+
 2: insert this script:
 setInterval(function() {
 if (window.location.href === "https://goldquest.blooket.com/host/gold/final") {
